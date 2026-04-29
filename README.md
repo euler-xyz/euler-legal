@@ -43,3 +43,9 @@ Suggested configuration shape:
 - `LEGAL_TERMS_PATH=/termsOfUse`
 - `LEGAL_PRIVACY_PATH=/privacyPolicy`
 - `LEGAL_RISK_DISCLOSURES_PATH=/riskDisclosures`
+
+Raw GitHub URLs for Markdown consumers:
+
+- `https://raw.githubusercontent.com/euler-xyz/euler-legal/refs/heads/main/termsOfUse.md`
+- `https://raw.githubusercontent.com/euler-xyz/euler-legal/refs/heads/main/privacyPolicy.md`
+- `https://raw.githubusercontent.com/euler-xyz/euler-legal/refs/heads/main/riskDisclosures.md`
