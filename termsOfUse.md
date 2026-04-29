@@ -1,6 +1,6 @@
 # Euler Products and Protocol Terms of Use
 
-**Updated and effective: 29 April 2026**
+***Updated and effective: 29 April 2026***
 
 ## 1. Introduction and Agreement
 
@@ -16,7 +16,7 @@ These Terms form a legally binding agreement between you and us. By accessing or
 
 Your use of the Products is also subject to any other Product-specific terms we may provide or include with the Products – such as licence terms included in the files of downloadable software components – as well as our Risk Disclosures and Privacy Policy, which are all incorporated herein by reference. Please review these documents carefully as they also contain important information.
 
-**NOTICE: SECTION 15 OF THESE TERMS CONTAINS A MANDATORY BINDING ARBITRATION AND CLASS ACTION WAIVER. EXCEPT FOR CERTAIN TYPES OF DISPUTES MENTIONED IN THAT SECTION, YOU AND WE AGREE THAT ANY DISPUTES RELATING TO THE PRODUCTS WILL BE RESOLVED BY MANDATORY BINDING ARBITRATION, AND YOU WAIVE ANY RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE IN A CLASS ACTION LAWSUIT OR CLASS-WIDE ARBITRATION.**
+NOTICE: SECTION 15 OF THESE TERMS CONTAINS A MANDATORY BINDING ARBITRATION AND CLASS ACTION WAIVER. EXCEPT FOR CERTAIN TYPES OF DISPUTES MENTIONED IN THAT SECTION, YOU AND WE AGREE THAT ANY DISPUTES RELATING TO THE PRODUCTS WILL BE RESOLVED BY MANDATORY BINDING ARBITRATION, AND YOU WAIVE ANY RIGHT TO A TRIAL BY JURY OR TO PARTICIPATE IN A CLASS ACTION LAWSUIT OR CLASS-WIDE ARBITRATION.
 
 ## 2. Modification of Terms
 
@@ -486,4 +486,4 @@ Address: 4th Floor, Harbour Place, 103 South Church Street, P.O. Box 10240, Gran
 
 By accessing or using the Products, you acknowledge that you have read, understood, and agree to be bound by these Terms of Use, as well as the Risk Disclosures, and Privacy Policy.
 
-*Updated and effective: 29 April 2026*
+***Updated and effective: 29 April 2026***
