@@ -32,17 +32,9 @@ Date-suffixed files are archives of previous versions.
 
 ## Deployment
 
-Production and app configuration should use a legal base URL plus the stable
-paths above. When legal documents are updated, the URL paths should remain
+When legal documents are updated, the URL paths should remain
 unchanged. If the deployment host changes, only the base URL should need to
 change.
-
-Suggested configuration shape:
-
-- `LEGAL_BASE_URL=https://legal.euler.finance`
-- `LEGAL_TERMS_PATH=/termsOfUse`
-- `LEGAL_PRIVACY_PATH=/privacyPolicy`
-- `LEGAL_RISK_DISCLOSURES_PATH=/riskDisclosures`
 
 Raw GitHub URLs for Markdown consumers:
 
