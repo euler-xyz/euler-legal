@@ -1,6 +1,6 @@
 # Euler Products and Protocol Terms of Use
 
-***Updated and effective: 3 May 2026***
+***Updated and effective: 4 May 2026***
 
 ## 1. Introduction and Agreement
 
@@ -490,4 +490,4 @@ Address: 4th Floor, Harbour Place, 103 South Church Street, P.O. Box 10240, Gran
 
 By accessing or using the Products, you acknowledge that you have read, understood, and agree to be bound by these Terms of Use, as well as the Risk Disclosures, and Privacy Policy.
 
-***Updated and effective: 3 May 2026***
+***Updated and effective: 4 May 2026***
