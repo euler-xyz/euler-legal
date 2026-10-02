@@ -1,6 +1,6 @@
 # Euler Privacy Policy
 
-***Updated and effective: 2 October 2026***
+***Updated and effective: 28 August 2024***
 
 ## Introduction
 
@@ -70,7 +70,7 @@ Google Chrome, available at https://support.google.com/accounts/answer/61416?co=
 
 Microsoft Edge, available at https://privacy.microsoft.com/en-us/windows-10-microsoft-edge-and-privacy
 
-Mozilla Firefox, available at https://support.mozilla.org/en-US/kb/block-websites-storing-cookies-site-data-firefox
+Mozilla Firefox, available at https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-webServices-preferences
 
 Microsoft Internet Explorer, available at https://support.microsoft.com/en-gb/help/17442/windows-internet-explorer-delete-manage-cookies
 
@@ -78,7 +78,7 @@ Opera, available at https://www.opera.com/help/tutorials/security/privacy/
 
 Apple Safari, available at https://support.apple.com/guide/safari/manage-cookies-sfri11471/mac
 
-If you are using a mobile device to access the Services, you will need to refer to your instruction manual or other help/settings resource to find out how you can control Cookies on your device.  For more information about cookies, and how to disable cookies, visit https://allaboutcookies.org/.
+If you are using a mobile device to access the Services, you will need to refer to your instruction manual or other help/settings resource to find out how you can control Cookies on your device.  For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.
 
 Please note that if you restrict, disable or block any or all Cookies from your web browser or mobile or other device, the Services may not operate properly, and you may not have access to our services available through the Services. We are not responsible for your inability to use our Services or any degraded function you may experience that may be caused by your settings and choices regarding Cookies. 
 
@@ -136,4 +136,4 @@ If you have any questions, comments, or concerns regarding our Privacy Policy, p
 
 By using the Euler Protocol, you acknowledge that you have read, understood, and agree to this privacy policy. 
 
-***Updated and effective: 2 October 2026***
+***Updated and effective: 28 August 2024***
