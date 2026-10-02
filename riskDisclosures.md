@@ -1,6 +1,6 @@
 # Euler Protocol Risk Disclosures
 
-***Updated and effective: 28 August 2024***
+***Updated and effective: 2 October 2026***
 
 ## I. Introduction
 
@@ -58,7 +58,7 @@ Functionality and Performance: Euler does not guarantee continuous, uninterrupte
 
 User Interface: Certain user interface elements or design decisions within the Euler Protocol may be complex, confusing or unclear to some users, which may result in a User executing a different action or transaction than that user may have intended or desired. Users are advised to proceed with caution and verify their actions before finalising any transactions. Users may access documentation explaining the functions of the Euler Protocol at [https://docs.euler.finance/](https://docs.euler.finance/).
 
-Governance Risks: Certain aspects of the Euler Protocol may be governed by a decentralised community. Proposals made and accepted through documented governance processes (more info hereL https://gov.euler.finance/) could alter the protocol in ways that may affect users of the Euler Protocol, its features, products, services, functionalities, and the transactions which may or may not be conducted using various aspects of the Euler Protocol. These changes are outside the control of the Euler Foundation, and the Euler Foundation expressly disclaims any and all liability for any negative impacts resulting from governance decisions.
+Governance Risks: Certain aspects of the Euler Protocol may be governed by a decentralised community. Proposals made and accepted through documented governance processes (see the [Euler Governance Forum](https://forum.euler.finance/)) could alter the protocol in ways that may affect users of the Euler Protocol, its features, products, services, functionalities, and the transactions which may or may not be conducted using various aspects of the Euler Protocol. These changes are outside the control of the Euler Foundation, and the Euler Foundation expressly disclaims any and all liability for any negative impacts resulting from governance decisions.
 
 ## VII. Third-Party Risks
 
@@ -112,4 +112,4 @@ Audits and Security Measures: The Euler Protocol has undergone extensive securit
 
 By using the Euler Protocol, you acknowledge that you have read, understood, and agree to this risk disclosure policy. You accept all risks associated with using the protocol and agree that Euler is not liable for any losses or damages, whether direct or indirect, arising from your use of the protocol.
 
-***Updated and effective: 28 August 2024***
+***Updated and effective: 2 October 2026***
